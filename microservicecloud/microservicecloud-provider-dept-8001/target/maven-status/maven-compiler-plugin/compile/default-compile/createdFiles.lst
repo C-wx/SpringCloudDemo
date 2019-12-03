@@ -1,0 +1,5 @@
+cbuc\life\springcloud\DeptProvider8001_App.class
+cbuc\life\springcloud\controller\DeptController.class
+cbuc\life\springcloud\service\impl\DeptServiceImpl.class
+cbuc\life\springcloud\dao\DeptDao.class
+cbuc\life\springcloud\service\DeptService.class
