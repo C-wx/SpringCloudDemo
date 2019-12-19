@@ -9,6 +9,8 @@
         <module name="microservicecloudapi" />
         <module name="microservicecloudconsumerdept800" />
         <module name="microservicecloudeureka7001" />
+        <module name="microservicecloudeureka7002" />
+        <module name="microservicecloudeureka7003" />
         <module name="microservicecloudproviderdept8001" />
       </profile>
     </annotationProcessing>
@@ -18,6 +20,8 @@
       <module name="microservicecloudconsumerdept800" target="1.8" />
       <module name="microservicecloudconsumerdept8010" target="1.8" />
       <module name="microservicecloudeureka7001" target="1.8" />
+      <module name="microservicecloudeureka7002" target="1.8" />
+      <module name="microservicecloudeureka7003" target="1.8" />
       <module name="microservicecloudproviderdept8001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
