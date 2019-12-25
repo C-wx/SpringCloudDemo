@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservicecloudapi" />
+        <module name="microservicecloudconfig3344" />
+        <module name="microservicecloudconfigclient3355" />
+        <module name="microservicecloudconfigeurekaclient7001" />
         <module name="microservicecloudconsumerdept800" />
         <module name="microservicecloudconsumerdeptfeign" />
         <module name="microservicecloudconsumerhystrixdashboard" />
@@ -23,6 +26,9 @@
     <bytecodeTargetLevel>
       <module name="microservicecloud" target="1.8" />
       <module name="microservicecloudapi" target="1.8" />
+      <module name="microservicecloudconfig3344" target="1.8" />
+      <module name="microservicecloudconfigclient3355" target="1.8" />
+      <module name="microservicecloudconfigeurekaclient7001" target="1.8" />
       <module name="microservicecloudconsumerdept800" target="1.8" />
       <module name="microservicecloudconsumerdept8010" target="1.8" />
       <module name="microservicecloudconsumerdeptfeign" target="1.8" />
